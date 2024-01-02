@@ -12,7 +12,9 @@ export default function Home() {
   return (
     <main style={containerStyle} className="flex min-h-screen flex-col items-center justify-between p-24">
       <p>hey jamie</p>
-      <Image src={Marianne_Rotyliano} width={400} alt="QR" />
+      <a href="https://qrco.de/befxHV" target="_blank" rel="noopener noreferrer">
+        <Image src={Marianne_Rotyliano} width={400} alt="QR" />
+      </a>
       <Image src={Mar} width={400} alt="Mar" />
       <Image src={Cookie} width={400} alt="Cookie" />
       <video width="320" height="240" controls>
