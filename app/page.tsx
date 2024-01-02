@@ -6,7 +6,7 @@ import Image from "next/image";
 export default function Home() {
   const containerStyle = {
     backgroundColor: "forestgreen",
-    fontFamily: "Comic Sans MS, cursive",
+    // fontFamily: "Comic Sans MS, cursive",
   };
 
   return (
