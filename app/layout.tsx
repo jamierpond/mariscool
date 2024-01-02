@@ -12,7 +12,7 @@ const images = [
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://mar.band'),
-  title: 'mar is cool',
+  title: 'mar is very cool',
   description: 'mar is a los angeles based artist',
   openGraph: {
     images: images,
