@@ -17,6 +17,9 @@ export default function Home() {
       <video width="320" height="240" controls>
         <source src="/jamieskating.MOV" type="video/mp4" />
       </video>
+      <a href="https://www.tiktok.com/@marrotyliano" target="_blank" rel="noopener noreferrer">
+        Check out my TikTok!
+      </a>
     </main>
   );
 }
