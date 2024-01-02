@@ -13,6 +13,7 @@ export default function Home() {
       <p>hey jamie</p>
       <Image src={Mar} width={400} alt="Mar" />
       <Image src={Cookie} width={400} alt="Cookie" />
+      { /* my annoying change to fuck up your life */}
       <video width="320" height="240" controls>
         <source src="/jamieskating.MOV" type="video/mp4" />
       </video>
